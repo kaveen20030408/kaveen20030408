@@ -29,4 +29,4 @@
   </tr>
 </table>
 
- ![KaveenGunarathna's Stats](https://github-readme-stats.vercel.app/api?username=Kaveen20030408&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+ ![kaveen20030408's Stats](https://github-readme-stats.vercel.app/api?username=Kaveen20030408&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
