@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveen20030408&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaveen20030408&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveen20030408&theme=highcontrast&hide_border=true" alt="GitHub Streak">
@@ -29,4 +29,4 @@
   </tr>
 </table>
 
- ![kaveen20030408's Stats](https://github-readme-stats.vercel.app/api?username=Kaveen20030408&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+ ![Kaveen's Stats](https://github-stats-extended.vercel.app/api?username=Kaveen20030408&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
