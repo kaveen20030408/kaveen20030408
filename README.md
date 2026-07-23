@@ -28,5 +28,12 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><a href="https://github.com/kaveen20030408/Fluxion"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Kaveen20030408&repo=Fluxion" /></a></td>
+    <td><a href="https://github.com/kaveen20030408/Cloth-Haven"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Kaveen20030408&repo=Cloth-Haven" /></a></td>
+  </tr>
+</table>
 
  ![Kaveen's Stats](https://github-stats-extended.vercel.app/api?username=Kaveen20030408&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
